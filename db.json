@@ -1,0 +1,39 @@
+{
+  "inventory": [
+    {
+      "softwareName": "Office 2021",
+      "softwareCompany": "Microsoft Corporation",
+      "serialNumber": "111-222-3333",
+      "dateAquired": "1998-10-02",
+      "id": "100ac83f-1837-459a-a71a-f3f5e4b588e6"
+    },
+    {
+      "softwareName": "Acrobat 2013",
+      "softwareCompany": "Adobe",
+      "serialNumber": "33304-2-01392",
+      "dateAquired": "2013-09-13",
+      "id": "e76e57ef-bbd6-4cd9-8061-6f66dbc8e42c"
+    },
+    {
+      "softwareName": "AutoCAD 2021",
+      "softwareCompany": "AutoDesk",
+      "serialNumber": "12309-23223-12394",
+      "dateAquired": "2019-03-29",
+      "id": "ac4737e6-ceb6-4493-9d08-3eb6bdeff212"
+    },
+    {
+      "softwareName": "Trident 2019",
+      "softwareCompany": "Trident Consulting",
+      "serialNumber": "123-12340459-123124",
+      "dateAquired": "2019-01-01",
+      "id": "9fc456b7-dc17-4719-bc83-e21cf1dbc756"
+    },
+    {
+      "softwareName": "Photoshop 2014",
+      "softwareCompany": "Adobe Creative Cloud",
+      "serialNumber": "12340-123304-12381",
+      "dateAquired": "2019-01-01",
+      "id": "a4665d0d-c845-453c-8059-f70b127e5f0f"
+    }
+  ]
+}
